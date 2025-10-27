@@ -113,8 +113,5 @@ http://localhost:5000
 - **Farmers:** Upload and classify vegetable images, list crops for sale, and manage inventory.
 - **Retailers:** Browse listed crops with quality ratings, connect with farmers, and complete purchase transactions.
 
-## Contact
-
-For questions or collaborations, reach out at your- chandan.chandu@gmail.com
 
 # Thank you for exploring this impactful AI-powered marketplace project, advancing agriculture with technology!
